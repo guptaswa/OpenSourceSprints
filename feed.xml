@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>open-source-sprints</title>
+    <link href="https://guptaswa.github.io/OpenSourceSprints/feed.xml" rel="self" />
+    <link href="https://guptaswa.github.io/OpenSourceSprints" />
+    <updated>2019-04-03T11:22:49-04:00</updated>
+    <author>
+        <name>Reshama Shaikh</name>
+    </author>
+    <id>https://guptaswa.github.io/OpenSourceSprints</id>
+
+    <entry>
+        <title>Scikit learn sprint</title>
+        <author>
+            <name>Reshama Shaikh</name>
+        </author>
+        <link href="https://guptaswa.github.io/OpenSourceSprints/scikit-learn-sprint.html"/>
+        <id>https://guptaswa.github.io/OpenSourceSprints/scikit-learn-sprint.html</id>
+
+        <updated>2019-04-03T11:15:16-04:00</updated>
+            <summary>
+                <![CDATA[
+                    First Sprint
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                First Sprint
+            ]]>
+        </content>
+    </entry>
+</feed>

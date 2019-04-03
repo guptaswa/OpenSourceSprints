@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "open-source-sprints",
+    "description": "",
+    "home_page_url": "https://guptaswa.github.io/OpenSourceSprints",
+    "feed_url": "https://guptaswa.github.io/OpenSourceSprints/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Reshama Shaikh"
+    },
+    "items": [
+        {
+            "id": "https://guptaswa.github.io/OpenSourceSprints/scikit-learn-sprint.html",
+            "url": "https://guptaswa.github.io/OpenSourceSprints/scikit-learn-sprint.html",
+            "title": "Scikit learn sprint",
+            "summary": "First Sprint",
+            "content_html": "First Sprint",
+            "author": {
+                "name": "Reshama Shaikh"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-04-03T11:15:16-04:00",
+            "date_modified": "2019-04-03T11:15:16-04:00"
+        }
+    ]
+}
